@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/peterfoeng/turborepo/compare/web-v1.1.0...web-v1.1.1) (2022-10-14)
+
+
+### Bug Fixes
+
+* web update at 3.32pm ([5f38653](https://github.com/peterfoeng/turborepo/commit/5f386537034db3e1d5dc754a4c9edaf38e10fd56))
+
 ## [1.1.0](https://github.com/peterfoeng/turborepo/compare/web-v1.0.0...web-v1.1.0) (2022-10-14)
 
 
