@@ -7,6 +7,7 @@ export default function Docs() {
             <p>Implement feature-b (14/10/2022 3:56pm)</p>
             <p>Implement feature-b extra (14/10/2022 3:58pm)</p>
             <div>Implement NEW FEATURE (14/11/2022 1:15pm)</p></div>
+            <div>Implement NEW FEATURE 2nd LINE (14/11/2022 1:20pm)</p></div>
             <Button/>
         </div>
     );
