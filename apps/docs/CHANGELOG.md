@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.2.0](https://github.com/peterfoeng/turborepo/compare/docs-v1.1.0...docs-v1.2.0) (2022-11-14)
+
+
+### Features
+
+* change heading ([509690b](https://github.com/peterfoeng/turborepo/commit/509690b5d90bf1fe1b3e94304bd84daeb96063b9))
+
+
+### Bug Fixes
+
+* closing tag ([509690b](https://github.com/peterfoeng/turborepo/commit/509690b5d90bf1fe1b3e94304bd84daeb96063b9))
+* closing tag ([509690b](https://github.com/peterfoeng/turborepo/commit/509690b5d90bf1fe1b3e94304bd84daeb96063b9))
+
 ## [1.1.0](https://github.com/peterfoeng/turborepo/compare/docs-v1.0.0...docs-v1.1.0) (2022-11-14)
 
 
