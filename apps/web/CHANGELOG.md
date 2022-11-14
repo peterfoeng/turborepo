@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.4.0](https://github.com/peterfoeng/turborepo/compare/web-v1.3.0...web-v1.4.0) (2022-11-14)
+
+
+### Features
+
+* remove old content ([63fa879](https://github.com/peterfoeng/turborepo/commit/63fa87938fe07062321908d74b27989e3ed4d8b9))
+* web heading update ([4b1a879](https://github.com/peterfoeng/turborepo/commit/4b1a87929c34a69e63acb8434b3417e4be9e84b8))
+
 ## [1.3.0](https://github.com/peterfoeng/turborepo/compare/web-v1.2.0...web-v1.3.0) (2022-11-14)
 
 
