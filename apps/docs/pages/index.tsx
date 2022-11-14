@@ -9,7 +9,7 @@ export default function Docs() {
             <div>Implement NEW FEATURE (14/11/2022 1:15pm)</div>
             <div>Implement NEW FEATURE 2nd LINE (14/11/2022 1:20pm)</div>
             <Button/>
-            <div>Implement NEW FEATURE V5 (14/11/2022 1:20pm)</div>
+            <h2>Implement NEW FEATURE V5 (14/11/2022 1:20pm)</div>
         </div>
     );
 }
