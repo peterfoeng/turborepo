@@ -5,7 +5,6 @@ export default function Web() {
         <div>
             <h1>Web with Turborepo (14 Nov 2022 2:34PM)</h1>
             <p>We all love turborepo</p>
-            <Button />
         </div>
   );
 }
