@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.0](https://github.com/peterfoeng/turborepo/compare/web-v1.4.0...web-v1.5.0) (2022-11-14)
+
+
+### Features
+
+* **RT-9999:** Web page body content update ([#17](https://github.com/peterfoeng/turborepo/issues/17)) ([6695c93](https://github.com/peterfoeng/turborepo/commit/6695c93baab8bdc6945b7443685fd1b5f3a1fca5))
+
 ## [1.4.0](https://github.com/peterfoeng/turborepo/compare/web-v1.3.0...web-v1.4.0) (2022-11-14)
 
 
