@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.3.0](https://github.com/peterfoeng/turborepo/compare/web-v1.2.0...web-v1.3.0) (2022-11-14)
+
+
+### Features
+
+* new body content ([6f39ad3](https://github.com/peterfoeng/turborepo/commit/6f39ad3f6dc1d472614021111a0bb7dadac5b92d))
+
+
+### Bug Fixes
+
+* wrong HTML closing tag ([b34a4aa](https://github.com/peterfoeng/turborepo/commit/b34a4aa6afd892c0018cd32fe826d617a2a0e6a6))
+
 ## [1.2.0](https://github.com/peterfoeng/turborepo/compare/web-v1.1.1...web-v1.2.0) (2022-11-14)
 
 
