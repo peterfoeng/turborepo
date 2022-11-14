@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/peterfoeng/turborepo/compare/web-v1.1.1...web-v1.2.0) (2022-11-14)
+
+
+### Features
+
+* V3 web pages update L11 ([bdc391d](https://github.com/peterfoeng/turborepo/commit/bdc391d8da9c5e71612b6eedad4cefe4afbd604a))
+
 ## [1.1.1](https://github.com/peterfoeng/turborepo/compare/web-v1.1.0...web-v1.1.1) (2022-10-14)
 
 
